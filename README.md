@@ -2,7 +2,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/Limule3650/Veldra-Md">
-    <img alt=Support height="300" src="https://i.ibb.co/K58Cgt4.jpg"> 
+    <img alt=Support height="300" src="https://iili.io/dP0sxmg.jpg"> 
     </p>
 <h1 align="center">    💋𝐒𝐄𝐗𝐘 𝐊𝐀𝐖𝐀𝐈 𝐒𝐇𝐔𝐍𝐀 𝐁𝐎𝐓😍 
 </h1>
