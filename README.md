@@ -1,7 +1,7 @@
 ## 𝐒𝐇𝐔𝐍𝐀_𝐁𝐔𝐆-𝐁𝐎𝐓
 </p>
 <p align="center">
-  <a href="https://github.com/Limule3650/Veldra-Md">
+  <a href="https://github.com/Limule3650/Shuna_bug-bot">
     <img alt=Support height="300" src="https://iili.io/dP0sxmg.jpg"> 
     </p>
 <h1 align="center">    💋𝐒𝐄𝐗𝐘 𝐊𝐀𝐖𝐀𝐈 𝐒𝐇𝐔𝐍𝐀 𝐁𝐎𝐓😍 
@@ -127,7 +127,7 @@ Scan the QR or Get pairing code.
 ---
 
 
-<h2 align="center"> Star This Repo If You like RAPHAËL-MD🌟
+<h2 align="center"> Star This Repo If You like SHUNA🌟
 </h2>
 
 #### Developer 
@@ -138,3 +138,4 @@ Scan the QR or Get pairing code.
 
 
 ## NB: COPY CODE IF YOU WANT BUT DON'T FORGET TO GIVE CREDIT TO ME
+
